@@ -11,3 +11,4 @@ enabled = true
   plugins = ["react"]
   environment = ["nodejs"]
   dialect = "typescript"
+  module_system = "es-modules"
